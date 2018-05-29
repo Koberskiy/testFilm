@@ -1,0 +1,20 @@
+PODS:
+  - MBProgressHUD (1.1.0)
+  - youtube-ios-player-helper (0.1.4)
+
+DEPENDENCIES:
+  - MBProgressHUD (~> 1.1.0)
+  - youtube-ios-player-helper (= 0.1.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MBProgressHUD
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  youtube-ios-player-helper: 84b1485ebb4b7c6b619c6e05edcb55186723a7c6
+
+PODFILE CHECKSUM: 8dd5895effa08b2643014513ea80a3412b871123
+
+COCOAPODS: 1.5.2
